@@ -129,10 +129,6 @@ Além disso, as relações identificadas nas análises representam associações
 
 Considerações finais
 
-A realização deste projeto permitiu colocar em prática os conteúdos estudados na disciplina de Machine Learning e Análise de Dados, utilizando uma base de dados real para desenvolver diferentes análises estatísticas e modelos de classificação e regressão.
+A realização desse projeto permitiu colocar em prática os conteúdos estudados na disciplina de Machine Learning e Análise de Dados, utilizando uma base de dados real para desenvolver diferentes análises estatísticas e modelos de classificação e regressão.
 
 Com isso, foi possível compreender melhor como a análise de dados pode ajudar a identificar padrões e gerar informações relevantes para questões relacionadas à mobilidade urbana.
-
-⸻
-
-Trabalho acadêmico desenvolvido para a Global Solution – MLAM.
